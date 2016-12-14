@@ -7,8 +7,7 @@ MinecraftForge 說明文件
 
 前往[GitHub]來為這份說明文件進一點心力。
 
-Translated by [GKB] at 2016/12/13.
+Translated at 2016/12/14 21:30 (GMT+8).
 
 [MinecraftForge]: http://minecraftforge.net
 [GitHub]: http://github.com/MinecraftForge/Documentation
-[GKB]: http://gkbsite.twbbs.org/
