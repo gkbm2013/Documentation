@@ -1,28 +1,30 @@
-Style Guide
+編寫樣式指南
 ===========
 
-Guide For Contributing to This Documentation
+編撰這份文件的指南
 --------------------------------------------
 
-This documentation is meant to be explanatory. Please explain how to do things, and break it down into reasonable chunks.
-We have a wiki elsewhere that can capture more comprehensive code examples.
+這份文件的目的是用來說明的，請解釋如何製作某些功能，並且將這些說明適當的分區。
 
-Our audience is anyone who wants to understand how to build a mod using Forge.
+我們在別處有個wiki，在那裡可以得到更全面的程式碼範例。
 
-Please don't try to turn this documentation into a tutorial on Java Development - it is intended for people who understand how a Java class works, and other fundamental structures of Java.
+我們的觀眾是任何想知道如何用Forge做模組的人。
 
-Formatting
+請不要把這份文件變成一個Java教學文件 - 相反地，這份文件是寫給懂得Java class運作和其他Java基本結構的讀者。
+
+格式
 ----------
 
-!!! important
+!!! 重要
 
-    Please use **two spaces** to indent, not tabs.
-
-Titles should be capitalized in the standard titling format. For example,
+    請使用 **兩個空格** 來縮行，而不是tabs。
+    
+在標準格式中，標題必須是大寫。例如:
 
   * Guide For Contributing to This Documentation
   * Building and Testing Your Mod
 
-Essentially, capitalize everything but unimportant words.
+基本上，除了不重要的詞以外，每個單字的自首都要大寫。
 
-Please use equals and dash underlines, instead of `#` and `##`. For h3 and lower, `###` etc. is fine. The source of this file contains an example for equals and dash underlining. Equals underlines create h1 text, and dash underlines create h2 text.
+標註標題請使用等號( `=` )或者破折號( `-` )而不是`#`和`##`。但是如果是 h3 以下的標題`###`等等是被允許使用的。 這份文件的原始碼中有等號和者破折號的使用範例。等號可以創造出一個 h1 文字，而破折號則是可以創造出一個 h2 文字。
+Translate at 2016/12/14 22:03 (GMT+8)
